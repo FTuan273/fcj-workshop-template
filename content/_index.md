@@ -22,6 +22,8 @@ chapter: false
 
 &emsp; **Class:** 22DTHC2
 
+&emsp; **Group:** 3TL
+
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey

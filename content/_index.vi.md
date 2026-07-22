@@ -19,6 +19,8 @@ chapter: false
 
 &emsp; **Lớp:** 22DTHC2
 
+&emsp; **Nhóm:** 3TL
+
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
