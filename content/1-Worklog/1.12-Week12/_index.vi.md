@@ -5,9 +5,7 @@ weight: 2
 chapter: false
 pre: " <b> 1.12 </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 ### Mục tiêu tuần 12:
 
@@ -15,14 +13,14 @@ pre: " <b> 1.12 </b> "
 * Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+|---|---|---|---|---|
+| 1 | - Tích hợp API Gateway (WebSocket) và DynamoDB để xây dựng chức năng thông báo thời gian thực.<br>- Kiểm thử cập nhật trạng thái đơn hàng theo thời gian thực. | 07/07/2026 | 08/07/2026 | API Gateway WebSocket Documentation<br>Amazon DynamoDB Documentation |
+| 2 | - Cấu hình Amazon CloudWatch và AWS X-Ray để theo dõi Log, Metrics và Trace của hệ thống.<br>- Thiết lập Dashboard giám sát. | 08/07/2026 | 08/07/2026 | Amazon CloudWatch Documentation<br>AWS X-Ray Documentation |
+| 3 | - Cấu hình Amazon SNS gửi cảnh báo khi phát sinh lỗi hoặc vượt ngưỡng tài nguyên.<br>- Kiểm thử cơ chế giám sát và cảnh báo. | 08/07/2026 | 09/07/2026 | Amazon SNS Documentation |
+| 4 | - Thực hiện kiểm thử End-to-End toàn bộ hệ thống WebFood.<br>- Tối ưu hiệu năng Lambda, API Gateway và truy vấn cơ sở dữ liệu.<br>- Khắc phục các lỗi phát sinh. | 10/07/2026 | 13/07/2026 | AWS Well-Architected Framework |
+| 5 | - Hoàn thiện tài liệu kỹ thuật và sơ đồ kiến trúc hệ thống.<br>- Tổng kết kết quả thực tập, đánh giá các mục tiêu đã đạt được và chuẩn bị báo cáo cuối kỳ. | 13/07/2026 | 15/07/2026 | AWS Architecture Center |
 
 ### Kết quả đạt được tuần 12:
 

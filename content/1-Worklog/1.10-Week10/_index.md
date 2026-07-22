@@ -5,9 +5,7 @@ weight: 2
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 
 ### Week 10 Objectives:
@@ -16,14 +14,14 @@ pre: " <b> 1.10. </b> "
 * Understand basic AWS services, how to use the console & CLI.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | End Date | References |
+|---|---|---|---|---|
+| 1 | - Learn about Amazon CloudFront.<br>  + Distribution.<br>  + Origin.<br>  + Cache Behavior.<br>- Deploy a static website from Amazon S3 via CloudFront. | 30/06/2026 | 30/06/2026 | https://docs.aws.amazon.com/cloudfront/ |
+| 2 | - Learn about AWS WAF.<br>  + Web ACL.<br>  + Managed Rule.<br>  + Rate-based Rule.<br>- Configure WAF to protect CloudFront and API Gateway. | 30/06/2026 | 30/06/2026 | AWS WAF Documentation |
+| 3 | - Learn about Amazon CloudWatch.<br>  + Metrics.<br>  + Logs.<br>  + Dashboard.<br>- Monitor the operation of Lambda and API Gateway. | 30/06/2026 | 30/06/2026 | AWS CloudWatch Documentation |
+| 4 | - Learn about AWS X-Ray and Amazon SNS.<br>- Practice Trace Requests and configure alert notifications when system errors occur. | 01/07/2026 | 01/07/2026 | AWS X-Ray Documentation<br>AWS SNS Documentation |
+| 5 | - Summarize knowledge of services learned over 10 weeks.<br>- Design the project architecture diagram using AWS services.<br>- Prepare the environment and deployment plan for the project starting week 11. | 01/07/2026 | 01/07/2026 | AWS Well-Architected Framework |
 
 ### Week 10 Achievements:
 

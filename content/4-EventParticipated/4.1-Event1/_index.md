@@ -1,126 +1,55 @@
 ---
-title: "Event 1"
-date: 2024-01-01
+title: "Knowledge and experience sharing session (09/05/2026)"
+date: 2026-05-09
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+# Knowledge and experience sharing session Report — 09/05/2026
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+### Event Purpose
 
-### Event Objectives
+- Share knowledge about AWS, AI, and soft skills within the **First Cloud Journey / FCAJ** community.
+- Connect learners at the AWS Vietnam office.
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+### Event Information
 
-### Speakers
+- **Event Name:** Knowledge and experience sharing session — First Cloud Journey AI
+- **Date:** **09/05/2026**
+- **Location:** 26th Floor - AWS Vietnam Office (Bitexco Tower, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City)
+- **Role:** Attendee
+- **Event Photos:** [LinkedIn Post](https://www.linkedin.com/posts/thienluhoan_aws-fcaj-growthmindset-activity-7459160081016762368-d8Bv/)
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+### Speakers / Sessions
 
-### Key Highlights
+#### 1. Huynh Long - Learning Experience
+**Huynh Long** shared about personal learning methods, how he sets goals and determines the achievements to be reached after each study session. At the same time, he emphasized the importance of summarizing practical experiences and constantly striving to conquer the set goals.
+![Huynh Long](/images/4-EventParticipated/4.1-Event1/hoang-long-1.jpg.png)
 
-#### Identifying the drawbacks of legacy application architecture
+#### 2. Thinh Nguyen - Proptimizer
+**Thinh Nguyen** shared about Proptimizer — an AI prompt optimization tool that helps improve the efficiency and output quality of Large Language Models (LLMs).
+![Thinh Nguyen — Proptimizer](/images/4-EventParticipated/4.1-Event1/thinh-nguyen-1.jpg.png)
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+#### 3. Khang Nguyen - Growth Mindset
+**Khang Nguyen** shared about Growth Mindset, how to practice the habit of always asking "Why?" and viewing curiosity as one's greatest asset. At the same time, he emphasized the importance of daring to accept mistakes as valuable lessons, and always maintaining a relentless desire to learn so as not to be left behind.
+![Khang Nguyen](/images/4-EventParticipated/4.1-Event1/khang-nguyen-1.jpg.png)
 
-#### Transitioning to modern application architecture – Microservices
+#### 4. Nguyen Phuong Thao - Developer Agent 
+**Nguyen Phuong Thao** shared about "Developer Agent" models and discipline when coding for each individual Story. She introduced a methodical workflow, from breaking down detailed tasks to accurate code execution, in order to optimize performance and ensure quality before submitting for review.
+![Nguyen Phuong Thao](/images/4-EventParticipated/4.1-Event1/phuong-thao-1.jpg.png)
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+#### Group Photo
+![Community Day Group Photo](/images/4-EventParticipated/4.1-Event1/anhtapthe1.jpg.png)
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+### Takeaways & Application
 
-#### Domain-Driven Design (DDD)
-
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
-
-#### Event-Driven Architecture
-
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
-
-#### Compute Evolution
-
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
-
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
-
-### Key Takeaways
-
-#### Design Mindset
-
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
-
-#### Technical Architecture
-
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
-
-#### Modernization Strategy
-
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
-
-### Applying to Work
-
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+- **Growth Mindset & Self-study Discipline**: Practice the habit of asking "Why?" and self-summarize achievements after each study session to continuously improve instead of fearing mistakes.
+- **AI Prompt Optimization**: Apply the mindset from the Proptimizer tool to improve output quality when communicating with LLM models.
+- **Developer Agent & Code Discipline**: Break down Stories into extremely detailed subtasks, code definitively, and avoid guessing (useful to avoid conflicts on GitHub/GitLab when developing features for projects like WebFood).
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+The event brought a variety of diverse presentations: from learning methods, personal growth mindset, AI tools, to the actual workflow of a developer. The atmosphere at the AWS Vietnam office (Bitexco Tower) was very professional, creating a clear sense of FCAJ community connection.
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
-
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
-
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
-
-#### Some event photos
-*Add your event photos here*  
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+> Overall, the event helped me broaden my multi-dimensional perspective — from sharpening self-study mindset and optimizing AI tools, to applying methodical programming discipline into practical projects.

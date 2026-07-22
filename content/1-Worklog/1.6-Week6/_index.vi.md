@@ -5,9 +5,7 @@ weight: 1
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 
 ### Mục tiêu tuần 6:
@@ -16,14 +14,14 @@ pre: " <b> 1.6. </b> "
 * Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+|---|---|---|---|---|
+| 1 | - Tìm hiểu Docker.<br>  + Image.<br>  + Container.<br>  + Dockerfile.<br>  + Docker Hub. | 07/06/2026 | 08/06/2026 | https://cloudjourney.awsstudygroup.com/<br>https://docs.docker.com/ |
+| 2 | - Cài đặt Docker Desktop.<br>- Tạo Docker Image từ ứng dụng mẫu.<br>- Chạy Container cục bộ. | 09/06/2026 | 09/06/2026 | https://cloudjourney.awsstudygroup.com/<br>https://docs.docker.com/ |
+| 3 | - Tìm hiểu Amazon Elastic Container Registry (ECR).<br>- Đẩy Docker Image lên ECR. | 10/06/2026 | 10/06/2026 | AWS Documentation |
+| 4 | - Tìm hiểu Amazon ECS.<br>  + Cluster.<br>  + Task Definition.<br>  + Service.<br>- Triển khai ứng dụng lên ECS. | 11/06/2026 | 13/06/2026 | AWS Documentation |
+| 5 | - Kiểm thử ứng dụng trên ECS.<br>- Theo dõi log và xử lý các lỗi phát sinh trong quá trình triển khai. | 13/06/2026 | 14/06/2026 | AWS Documentation |
 
 ### Kết quả đạt được tuần 6:
 * Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 

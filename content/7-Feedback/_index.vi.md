@@ -5,9 +5,7 @@ weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 >Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud AI Journey, giúp team FCAJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
 
@@ -33,12 +31,18 @@ Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về t
 
 
 ### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+- **Điều bạn hài lòng nhất trong thời gian thực tập?**  
+  Mình hài lòng nhất là được trực tiếp tham gia triển khai các dự án thực tế, đặc biệt là được làm việc với các công nghệ như AWS Serverless, ReactJS. Sự hỗ trợ nhiệt tình từ mentor cũng là điều mình vô cùng trân trọng.
+- **Điều bạn nghĩ công ty cần cải thiện cho các thực tập sinh sau?**  
+  Mình nghĩ công ty có thể tổ chức thêm các buổi Seminar/Tech talk nội bộ định kỳ dành riêng cho thực tập sinh để mọi người có thể giao lưu, chia sẻ kiến thức chéo với nhau.
+- **Nếu giới thiệu cho bạn bè, bạn có khuyên họ thực tập ở đây không? Vì sao?**  
+  Chắc chắn là có. Đây là một môi trường tuyệt vời không chỉ giúp sinh viên IT củng cố kỹ năng lập trình thực chiến mà còn giúp rèn luyện tác phong làm việc chuyên nghiệp.
 
 
 ### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
-- Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+- **Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?**  
+  Sẽ rất tuyệt nếu có thêm một tài liệu hướng dẫn (onboarding guide) chi tiết hơn trong tuần đầu tiên, bao gồm các tool, quy trình làm việc chuẩn của dự án để newbie có thể hòa nhập nhanh hơn.
+- **Bạn có muốn tiếp tục chương trình này trong tương lai?**  
+  Mình rất mong muốn được tiếp tục đồng hành và cống hiến cho công ty dưới vai trò nhân viên chính thức nếu có cơ hội sau khi kết thúc khóa thực tập.
+- **Góp ý khác (tự do chia sẻ):**  
+  Cảm ơn công ty và đặc biệt là các anh chị mentor trong team FCAJ đã tạo điều kiện tốt nhất để mình hoàn thành kỳ thực tập với nhiều kỷ niệm đáng nhớ!

@@ -5,9 +5,7 @@ weight: 1
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 
 ### Week 3 Objectives:
@@ -16,14 +14,14 @@ pre: " <b> 1.3. </b> "
 * Understand basic AWS services, how to use the console & CLI.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | End Date | References |
+|---|---|---|---|---|
+| 1 | - Learn about Amazon VPC.<br>  + CIDR Block.<br>  + Subnet.<br>  + Internet Gateway.<br>  + Route Table. | 15/05/2026 | 15/05/2026 | https://000003.awsstudygroup.com/<br>https://docs.aws.amazon.com/vpc/ |
+| 2 | - Practice creating a VPC.<br>- Create a Public Subnet and a Private Subnet.<br>- Configure Route Tables. | 17/05/2026 | 17/05/2026 | https://000003.awsstudygroup.com/<br>https://docs.aws.amazon.com/vpc/ |
+| 3 | - Learn about Security Groups and Network ACLs.<br>- Compare the differences between Security Groups and NACLs. | 18/05/2026 | 18/05/2026 | https://000003.awsstudygroup.com/<br>https://docs.aws.amazon.com/vpc/ |
+| 4 | - Deploy an EC2 instance in a Public Subnet.<br>- Connect via SSH to the EC2 instance.<br>- Configure the Security Group. | 19/05/2026 | 19/05/2025 | https://000004.awsstudygroup.com/<br>https://docs.aws.amazon.com/vpc/ |
+| 5 | - Review VPC concepts.<br>- Design a network architecture diagram including VPC, Subnets, and EC2. | 20/05/2026 | 22/05/2026 | AWS Documentation |
 
 ### Week 3 Achievements:
 

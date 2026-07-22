@@ -5,9 +5,7 @@ weight: 1
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 
 ### Week 8 Objectives:
@@ -16,14 +14,14 @@ pre: " <b> 1.8. </b> "
 * Understand basic AWS services, how to use the console & CLI.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | End Date | References |
+|---|---|---|---|---|
+| 1 | - Learn about Event-driven Architecture on AWS.<br>  + Event.<br>  + Producer.<br>  + Consumer.<br>  + Event Bus.<br>- Analyze use cases in the PROJECT system | 23/06/2026 | 24/06/2026 | https://cloudjourney.awsstudygroup.com/<br>https://docs.aws.amazon.com/eventbridge/ |
+| 2 | - Learn about Amazon EventBridge.<br>  + Event Bus.<br>  + Rule.<br>  + Target.<br>- Practice creating Custom Events and Event Rules | 24/06/2026 | 25/06/2026 | AWS EventBridge Documentation |
+| 3 | - Learn about Amazon SQS.<br>  + Standard Queue.<br>  + Dead Letter Queue (DLQ).<br>  + Visibility Timeout.<br>- Compare EventBridge and SQS. | 25/06/2026 | 25/06/2026 | AWS SQS Documentation |
+| 4 | - Practice integrating Lambda → EventBridge → SQS.<br>- Send and receive Messages between system components. | 26/06/2026 | 26/06/2026 | AWS Documentation |
+| 5 | - Build a Lambda Worker to process the Queue.<br>- Test asynchronous processing flow and log to CloudWatch. | 27/06/2026 | 27/06/2026 | AWS Documentation |
 
 ### Week 8 Achievements:
 

@@ -5,9 +5,6 @@ weight: 1
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 
 ### Week 9 Objectives:
@@ -16,14 +13,14 @@ pre: " <b> 1.9. </b> "
 * Understand basic AWS services, how to use the console & CLI.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | End Date | References |
+|---|---|---|---|---|
+| 1 | - Learn about Amazon API Gateway (WebSocket).<br>  + Connection.<br>  + Route.<br>  + Integration.<br>- Build a simple WebSocket connection. | 28/06/2026 | 28/06/2026 | https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html |
+| 2 | - Learn about Amazon DynamoDB.<br>  + Table.<br>  + Partition Key.<br>  + Query.<br>- Practice saving the WebSocket Connection ID. | 28/06/2026 | 28/06/2026 | AWS DynamoDB Documentation |
+| 3 | - Learn about AWS Secrets Manager.<br>- Store Secrets and retrieve Secrets from a Lambda Function. | 29/06/2026 | 29/06/2026 | AWS Secrets Manager Documentation |
+| 4 | - Learn about Amazon SES.<br>  + Verify Email.<br>  + Send Email using Lambda.<br>- Practice sending notification Emails. | 29/06/2026 | 29/06/2026 | AWS SES Documentation |
+| 5 | - Build a sample Notification flow: Lambda → DynamoDB → WebSocket → SES.<br>- Test sending real-time notifications and Emails. | 30/06/2026 | 30/06/2026 | AWS Documentation |
 
 ### Week 9 Achievements:
 

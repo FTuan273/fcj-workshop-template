@@ -5,9 +5,7 @@ weight: 1
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 
 ### Mục tiêu tuần 7:
@@ -16,14 +14,14 @@ pre: " <b> 1.7. </b> "
 * Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+|---|---|---|---|---|
+| 1 | - Tìm hiểu Infrastructure as Code (IaC).<br>- Làm quen với AWS CloudFormation và Terraform. | 15/06/2026 | 15/06/2026 | https://cloudjourney.awsstudygroup.com/<br>https://docs.aws.amazon.com/cloudformation/ |
+| 2 | - Viết Template CloudFormation/Terraform để triển khai EC2 và S3.<br>- Kiểm tra kết quả triển khai. | 16/06/2026 | 16/06/2026 | https://cloudjourney.awsstudygroup.com/<br>https://docs.docker.com/ |
+| 3 | - Tìm hiểu quy trình CI/CD trên AWS.<br>  + CodeCommit.<br>  + CodeBuild.<br>  + CodePipeline. | 17/06/2026 | 17/06/2026 | AWS Documentation |
+| 4 | - Thực hành tạo Pipeline tự động Build và Deploy ứng dụng.<br>- Theo dõi trạng thái Pipeline và xử lý lỗi. | 18/06/2026 | 20/06/2026 | AWS Documentation |
+| 5 | - Tổng hợp kiến thức về IaC và CI/CD.<br>- Hoàn thiện quy trình triển khai ứng dụng tự động trên AWS. | 21/06/2026 | 22/06/2026 | AWS Documentation |
 
 ### Kết quả đạt được tuần 7:
 

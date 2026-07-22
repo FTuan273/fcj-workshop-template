@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
+
 
 > Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
 
@@ -35,13 +33,19 @@ The company provides an internship allowance and offers flexible working hours w
 ---
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+- **What did you find most satisfying during your internship?**  
+  I was most satisfied with the opportunity to directly participate in real-world projects, particularly working with technologies like AWS Serverless and ReactJS. The enthusiastic support from my mentor is also something I deeply appreciate.
+- **What do you think the company should improve for future interns?**  
+  I think the company could organize regular internal seminars or tech talks specifically for interns, allowing everyone to interact and share knowledge with each other.
+- **If recommending to a friend, would you suggest they intern here? Why or why not?**  
+  Absolutely yes. This is a fantastic environment that not only helps IT students strengthen practical programming skills but also fosters a professional working attitude.
 
 ---
 
 ### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+- **Do you have any suggestions to improve the internship experience?**  
+  It would be great to have a more detailed onboarding guide during the first week, covering the standard tools and workflows of the projects so newcomers can integrate faster.
+- **Would you like to continue this program in the future?**  
+  I would love to continue my journey and contribute to the company as a full-time employee if the opportunity arises after this internship.
+- **Any other comments (free sharing):**  
+  Thank you to the company and especially the mentors in the FCAJ team for providing the best conditions for me to complete this internship with many memorable experiences!

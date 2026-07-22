@@ -5,9 +5,7 @@ weight: 2
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 
 ### Week 11 Objectives:
@@ -16,14 +14,14 @@ pre: " <b> 1.11. </b> "
 * Understand basic AWS services, how to use the console & CLI.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | End Date | References |
+|---|---|---|---|---|
+| 1 | - Initialize the WebFood project.<br>- Design Backend structure using Serverless model.<br>- Build basic APIs using Amazon API Gateway and AWS Lambda (Login, Register, Food Categories). | 02/07/2026 | 02/07/2026 | AWS Lambda Documentation<br>API Gateway Documentation |
+| 2 | - Connect Backend to MongoDB Atlas.<br>- Build CRUD APIs for food, restaurants, and orders.<br>- Store configuration secrets using AWS Secrets Manager. | 02/07/2026 | 02/07/2026 | MongoDB Atlas Documentation<br>AWS Secrets Manager Documentation |
+| 3 | - Integrate Amazon S3 to store food images.<br>- Configure CloudFront for content delivery and load speed optimization.<br>- Set up AWS WAF to protect APIs and CloudFront. | 03/07/2026 | 03/07/2026 | MoMo Developer Documentation (TBD) |
+| 4 | - Integrate MoMo payment gateway.<br>- Build an API to create payment transactions.<br>- Process Callback/IPN and update order status. | 03/07/2026 | 03/07/2026 | MoMo Developer Documentation |
+| 5 | - Integrate EventBridge, SQS, and Amazon SES.<br>- Send order confirmation Emails upon successful payment.<br>- End-to-end test the entire order processing flow. | 04/07/2026 | 06/07/2026 | AWS EventBridge Documentation<br>Amazon SQS Documentation<br>Amazon SES Documentation |
 
 ### Week 11 Achievements:
 
