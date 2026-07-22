@@ -28,43 +28,43 @@ pre: " <b> 4.2. </b> "
 
 *Level Up Your AWS Skills with Cloud Quest and Floci* — học AWS qua Cloud Quest, quản lý billing, và so sánh công cụ mô phỏng local (Floci vs LocalStack).
 
-![Huỳnh Thái Linh — Cloud Quest & Floci](/images/4-EventParticipated/4.1-Event1/01-huynh-thai-linh.jpg)
+![Huỳnh Thái Linh — Cloud Quest & Floci](/images/4-EventParticipated/4.2-Event2/01-huynh-thai-linh.jpg)
 
 #### 2. Team The Ballers (FCAJ Challenger) — Hackathon & SynthHunter
 
 **Huỳnh Anh Khương, Mai Quốc Anh, Nguyễn Trần Minh Quân** chia sẻ trải nghiệm hackathon và demo dự án **SynthHunter** — hệ thống phân loại giọng nói HUMAN / AI GENERATED / NEEDS REVIEW (XLS-R, Whisper, Fourier).
 
-![The Ballers — Hackathon](/images/4-EventParticipated/4.1-Event1/02-the-ballers-hackathon.jpg)
+![The Ballers — Hackathon](/images/4-EventParticipated/4.2-Event2/02-the-ballers-hackathon.jpg)
 
-![SynthHunter — AI Voice Verification](/images/4-EventParticipated/4.1-Event1/03-synthhunter.jpg)
+![SynthHunter — AI Voice Verification](/images/4-EventParticipated/4.2-Event2/03-synthhunter.jpg)
 
 #### 3. Nguyễn Thị Quỳnh Như — Why We Always Need Confidence
 
 Soft skills: vì sao sự tự tin là “must-have” cho career, campus life; agenda gồm self-doubt, science behind the struggle, và cách “hack” confidence hàng ngày.
 
-![Nguyễn Thị Quỳnh Như — Confidence](/images/4-EventParticipated/4.1-Event1/04-quynh-nhu-confidence.jpg)
+![Nguyễn Thị Quỳnh Như — Confidence](/images/4-EventParticipated/4.2-Event2/04-quynh-nhu-confidence.jpg)
 
 #### 4. Nghĩa Trần — Tử vi Đại Việt
 
 Giới thiệu sản phẩm / ý tưởng **Tử vi Đại Việt** (giải mã vận mệnh, thấu hiểu bản ngã), kèm góc nhìn GenAI và vision/differentiation của sản phẩm.
 
-![Nghĩa Trần — Tử vi Đại Việt](/images/4-EventParticipated/4.1-Event1/05-nghia-tran-tuvi.jpg)
+![Nghĩa Trần — Tử vi Đại Việt](/images/4-EventParticipated/4.2-Event2/05-nghia-tran-tuvi.jpg)
 
 #### 5. Trần Minh Quân — The Hidden Iceberg of a Project: DevOps Before Disaster
 
 Chia sẻ về “tảng băng chìm” của dự án: tư duy **DevOps trước khi sự cố xảy ra** — nhìn rủi ro vận hành, delivery và cộng tác sớm thay vì chỉ xử lý khi đã “disaster”.
 
-![Trần Minh Quân — DevOps Before Disaster](/images/4-EventParticipated/4.1-Event1/06-tran-minh-quan-devops.jpg)
+![Trần Minh Quân — DevOps Before Disaster](/images/4-EventParticipated/4.2-Event2/06-tran-minh-quan-devops.jpg)
 
 #### 6. Khac Uy Pham (HGU) — Procrastination
 
 *A Familiar Enemy / The Iceberg of Procrastination* — nhìn trì hoãn như sợ hãi (không phải lười), và thông điệp “GO BUILD — Starting today”.
 
-![Khac Uy Pham — Procrastination](/images/4-EventParticipated/4.1-Event1/07-khac-uy-pham-procrastination.jpg)
+![Khac Uy Pham — Procrastination](/images/4-EventParticipated/4.2-Event2/07-khac-uy-pham-procrastination.jpg)
 
 #### Ảnh tập thể
 
-![Ảnh tập thể Community Day](/images/4-EventParticipated/4.1-Event1/08-group-photo.jpg)
+![Ảnh tập thể Community Day](/images/4-EventParticipated/4.2-Event2/08-group-photo.jpg)
 
 ### Những gì học được & ứng dụng
 
